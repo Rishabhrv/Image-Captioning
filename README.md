@@ -1,7 +1,7 @@
 # Image-Captioning
 
 ## Overview
-This repository showcases my attempt at building an image captioning project using deep learning techniques. The goal of the project is to automatically generate descriptive captions for input images. Currently, I am actively working on this project to improve the performance and reduce the overfitting of the model. I am also in the process of learning about attention mechanisms to enhance the captioning accuracy. While the project did not achieve the desired results, it was a valuable learning experience that allowed me to explore different model architectures and challenges associated with image captioning.
+This repository showcases my attempt at building an image captioning project using deep learning. The goal of the project is to automatically generate descriptive captions for input images. Currently, I am actively working on this project to improve the performance and reduce the overfitting of the model. I am also in the process of learning about attention mechanisms to enhance the captioning accuracy. While the project did not achieve the desired results, it was a valuable learning experience that allowed me to explore different model architectures and challenges associated with image captioning.
 
 ## Project Details
 - **Project Objective**: Generate descriptive captions for input images using deep learning models.
